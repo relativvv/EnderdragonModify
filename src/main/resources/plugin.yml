@@ -1,0 +1,14 @@
+name: EnderdragonModify
+version: ${project.version}
+main: de.relativv.enderdragon.main.EDModify
+api-version: 1.13
+authors: [relativv]
+description: Fiverr Order - Enderdragon
+
+commands:
+  edm:
+    description: Der Hauptbefehl um das Plugin zu steuern
+    aliases: [enderdragonmodify, edmodify, enderdragon]
+  getMyRegionId:
+    description: Sagt dir die ID der Region in der du dich befindest
+    aliases: [myRegion, currentRegion, whichRegionAmI]
