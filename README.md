@@ -12,6 +12,8 @@ A plugin created for Minecraft version **1.15** that allows players and server a
   - `/edm setup` – Starts a setup process to spawn a custom Ender Dragon.
   - `/edm modify <regionid>` – Opens a modal to configure the dragon in a specific region.
 
+---
+
 - Customization options include:
   - 🏥 Health
   - 🧠 Behavior
@@ -22,6 +24,11 @@ A plugin created for Minecraft version **1.15** that allows players and server a
 - Region-based dragon behavior modification.  
 - 🧱 Compatible with Minecraft **1.15**  
 - ⚙️ Built using **Maven**
+    
+![Screenshot 2025-04-17 234026](https://github.com/user-attachments/assets/6dc9568f-c084-4d2e-b5f4-8f08239f4287)
+![Screenshot 2025-04-17 234015](https://github.com/user-attachments/assets/0518a03c-f580-4169-a5c4-be276d173853)
+![Screenshot 2025-04-17 234043](https://github.com/user-attachments/assets/780d75c5-6d67-4e3a-b6bb-129fc1d5b7db)
+![Screenshot 2025-04-17 234034](https://github.com/user-attachments/assets/fa32fc98-3387-4567-b913-92d4e78eb039)
 
 ---
 
